@@ -2,7 +2,7 @@
 <style>
   .contianer{
     display: flex;
-    backgroung-color: wheat;
+    background-color: wheat;
   }
 </style>
 <div class="container">
