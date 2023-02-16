@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div class="container">
-  <p><span>surrently working on: </span> goFaker</p>
+  <p><span>Currently working on: </span> goFaker</p>
   <p>More Coming Soon...</p>
 </div>
 
