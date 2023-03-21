@@ -14,7 +14,6 @@ I am a software engineer and I build thing using:
   
 Stats
 
-<image src="https://github-readme-stats.vercel.app/api?username=Martin-Martinez4&show_icons=true&theme=highcontrast"/>
 
 ### I am currently
 
