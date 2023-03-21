@@ -12,8 +12,6 @@ I am a software engineer and I build thing using:
 <image src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <div>
   
-Stats
-
 
 ### I am currently
 
