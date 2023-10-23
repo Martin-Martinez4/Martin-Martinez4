@@ -17,6 +17,6 @@ I am a software engineer and I build thing using:
 
 ### I am currently
 
-- Working on Metube
-- Learning C#, .Net, Golang
+- Working on Clack
+- Learning C, more Golang, and soon C++
 
