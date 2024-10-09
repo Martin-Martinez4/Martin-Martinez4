@@ -17,6 +17,6 @@ I am a software engineer and I build thing using:
 
 ### I am currently
 
-- The Ray Tracer Challenge (using Go)
-- Learning C, more Golang, and soon C++
+- Working on The Ray Tracer in A Week Series (using C++)
+- Learning C++, more Golang, and soon C
 
